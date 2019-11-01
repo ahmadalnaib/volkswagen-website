@@ -1,0 +1,75 @@
+
+
+@media(max-width:500px) {
+  #navbar {
+    flex-direction: column;
+  }
+  
+.info {
+  display: flex;
+  flex-direction: column;
+  margin-top: 4rem;
+  padding:2rem 2rem;
+
+  
+}
+
+.produkte {
+  display: flex;
+  flex-direction: column;
+  padding: 2rem 0;
+  
+}
+
+.jahres {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+}
+
+.imges-content img {
+  width: 50%;
+  margin: auto;
+  
+}
+
+
+#contact {
+  text-align: justify;
+  padding: 2rem;
+  margin: 2rem;
+  background: rgb(39, 39, 177);
+  color: #fff;
+  
+}
+
+
+#contact h2 {
+  padding: 0.2rem;
+  }
+  
+  #contact p {
+  margin:0 1rem;
+  padding: 0 1rem;
+  }
+
+  
+footer {
+  margin:auto;
+  padding: 4rem;
+  border-top:3px blue solid ;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+ 
+}
+
+
+#footer {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+
+
+
+}
